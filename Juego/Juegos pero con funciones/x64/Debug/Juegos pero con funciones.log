@@ -1,0 +1,4 @@
+﻿  Juegos pero con funciones.cpp
+D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Juegos pero con funciones\Juegos pero con funciones\Juegos pero con funciones.cpp(59,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Juegos pero con funciones\Juegos pero con funciones\Juegos pero con funciones.cpp(73,13): warning C4551: la llamada a la función no tiene lista de argumentos
+  Juegos pero con funciones.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Juegos pero con funciones\x64\Debug\Juegos pero con funciones.exe
