@@ -1,0 +1,4 @@
+﻿  Blackjack.cpp
+D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Blackjack\Blackjack\Blackjack.cpp(106,9): warning C4101: 'valorAs': variable local sin referencia
+D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Blackjack\Blackjack\Blackjack.cpp(239,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Blackjack.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\ASIX 1r\1r ASIX\M16\JAVA\Blackjack\x64\Debug\Blackjack.exe
